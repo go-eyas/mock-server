@@ -1,4 +1,4 @@
-用于练习 golang 的程序，一个模拟数据服务器
+用于练习 golang 的程序，一个模拟数据服务器，真正可用的模拟数据工具在这 https://github.com/eyasliu/mock-server-app
 
 # 安装
 
